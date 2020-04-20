@@ -70,7 +70,7 @@ make sure you have at least go 1.8 installed !
 
 Install `dep` as package manager, we need it for vendoring tool
 
-`$go get -u github.com/golang/dep/cmd/dep
+`$go get -u github.com/golang/dep/cmd/dep`
 
 Install go-bindata, we need it to compile all resource files to .go file
 
